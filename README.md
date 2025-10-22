@@ -8,7 +8,9 @@
 
 **DIFFA** is the **first diffusion-based large audio-language model (LALM)** for spoken language understanding.  
 It leverages a frozen diffusion LLM with **dual adapters** (semantic + acoustic) to enhance **audio perception and reasoning**.  
-This repo provides training data, checkpoints, inference scripts, and reproducible training pipelines for broader exploration of diffusion LLMs in the audio domain.  
+As the first exploration of diffusion-based large language models (dLLMs) in speech and audio understanding, DIFFA opens new directions for non-autoregressive multimodal learning.
+This repository provides the training data, checkpoints, inference scripts, and reproducible training pipelines to facilitate further research on diffusion LLMs in the audio domain.
+
 
 ---
 
