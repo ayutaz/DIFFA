@@ -11,3 +11,8 @@ data_res
 rubbish
 .vscode
 debug*
+.venv/
+uv.lock
+models/
+__pycache__/
+nul
